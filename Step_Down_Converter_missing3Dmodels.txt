@@ -1,0 +1,12 @@
+### Missing 3D models - created on 2022-01-20 19:34
+### Printed by checking_3D_models plugin
+Board file: /home/patrys/git_KiCad_Hardware/Step_Down_Converter/Step_Down_Converter.kicad_pcb
+3D missing models written to:
+/home/patrys/git_KiCad_Hardware/Step_Down_Converter/Step_Down_Converter_missing3Dmodels.txt
+-------
+('D2', '/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_0402_1005Metric.wrl')
+('L1', '/home/patrys/git_KiCad_Hardware/Step_Down_Converter/IHLP4040DZ (2.2-100uH).STEP')
+('D1', '/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_0402_1005Metric.wrl')
+-------
+NUM of 3D missing models:3
+checked extensions ['.stp', '.step', '.stpZ']

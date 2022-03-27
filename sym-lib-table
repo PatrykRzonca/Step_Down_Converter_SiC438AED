@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Step_Down_Converter")(type "KiCad")(uri "${KIPRJMOD}/Step_Down_Converter.kicad_sym")(options "")(descr ""))
+  (lib (name "BluePilot")(type "KiCad")(uri "/home/patrys/git_KiCad_Hardware/BluePilot/BluePilot.kicad_sym")(options "")(descr ""))
+  (lib (name "QP_LIBRARY")(type "KiCad")(uri "/home/patrys/git_KiCad_Hardware/QP_LIBRARY/QP_LIBRARY.kicad_sym")(options "")(descr ""))
+  (lib (name "eval_board_tmc6200-ta")(type "Legacy")(uri "/home/patrys/git_KiCad_Hardware/Eval_Board/eval_board_tmc6200-ta/eval_board_tmc6200-ta.lib")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS5430DDAR
+D Switching Voltage Regulators 5.5 to 36V Input 3A Step Dwn Converter
+K TPS543x3-A, Wide Input Range,Step-DownConverter
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps5430
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,1 @@
+[('D2', '/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_0402_1005Metric.wrl'), ('L1', '/home/patrys/git_KiCad_Hardware/Step_Down_Converter/IHLP4040DZ (2.2-100uH).STEP'), ('D1', '/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_0402_1005Metric.wrl')]
